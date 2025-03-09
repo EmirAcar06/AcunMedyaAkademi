@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.AssemblyInfo.cs
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Görev\Görev\bin\Debug\net8.0\Görev.exe
+C:\Users\user\source\repos\Görev\Görev\bin\Debug\net8.0\Görev.deps.json
+C:\Users\user\source\repos\Görev\Görev\bin\Debug\net8.0\Görev.runtimeconfig.json
+C:\Users\user\source\repos\Görev\Görev\bin\Debug\net8.0\Görev.dll
+C:\Users\user\source\repos\Görev\Görev\bin\Debug\net8.0\Görev.pdb
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.dll
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\refint\Görev.dll
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.pdb
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\Görev.genruntimeconfig.cache
+C:\Users\user\source\repos\Görev\Görev\obj\Debug\net8.0\ref\Görev.dll
